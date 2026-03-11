@@ -70,7 +70,6 @@ python main.py input.csv --output-dir .\output
 
 ```bash
 cd Exercise_B
-python components/generate_test_csv.py   # creates test_input.csv
 python components/main.py test_input.csv --output-dir output/
 ```
 
