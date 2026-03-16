@@ -70,7 +70,7 @@ python main.py input.csv --output-dir .\output
 
 ```bash
 cd Exercise_B
-python components/main.py test_input.csv --output-dir output/
+python main.py test_input.csv --output-dir output/
 ```
 
 ### Input Format
